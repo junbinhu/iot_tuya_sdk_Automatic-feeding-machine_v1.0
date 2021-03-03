@@ -1,12 +1,19 @@
 # iot_tuya_sdk_Automatic-feeding-machine_v1.0
 涂鸦sdk
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.         For more information, please check Tuya Developer Website.
+
 一、方案标题
+
 宠物自动喂食饮水机
+
 二、方案应用
+
 场景地点：室内；
+
 功能：
+
 需求：宠物主人平时需要上班，也要出远门，喂养宠物不方便。 宠物在自由采食的情况下不能自己控制采食量。
+
 结合使用场景，列举如下功能：
 按键手动喂食；
 通过涂鸦APP，快速开发，APP远程操控喂食；
