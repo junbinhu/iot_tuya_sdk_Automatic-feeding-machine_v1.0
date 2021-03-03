@@ -18,7 +18,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 按键手动喂食；
 
-通过涂鸦APP，快速开发，APP远程操控喂食；
+通过涂鸦IOT平台，快速开发，APP远程操控喂食；
 
 粮食精准投放；
 
