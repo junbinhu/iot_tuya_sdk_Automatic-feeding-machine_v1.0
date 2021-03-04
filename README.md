@@ -16,13 +16,15 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 结合使用场景，列举如下功能：
 
-按键手动喂食；
+按键手动喂食,饮水；
+
+减速电机控制食物投送,电磁阀控制饮水;
 
 通过涂鸦IOT平台，快速开发，APP远程操控喂食；
 
-粮食精准投放；
+粮食,饮水精准投放；
 
-两种供电方式，断电断网也正常喂食；
+两种供电方式，断电断网也正常喂食，饮水；
 
 三、开发计划
 
